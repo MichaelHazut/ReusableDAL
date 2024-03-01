@@ -1,0 +1,13 @@
+C:\Users\Michael\Desktop\Learning\Projects\ReusableDAL\bin\Debug\net8.0\ReusableDAL.deps.json
+C:\Users\Michael\Desktop\Learning\Projects\ReusableDAL\bin\Debug\net8.0\ReusableDAL.dll
+C:\Users\Michael\Desktop\Learning\Projects\ReusableDAL\bin\Debug\net8.0\ReusableDAL.pdb
+C:\Users\Michael\Desktop\Learning\Projects\ReusableDAL\obj\Debug\net8.0\ReusableDAL.csproj.AssemblyReference.cache
+C:\Users\Michael\Desktop\Learning\Projects\ReusableDAL\obj\Debug\net8.0\ReusableDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Desktop\Learning\Projects\ReusableDAL\obj\Debug\net8.0\ReusableDAL.AssemblyInfoInputs.cache
+C:\Users\Michael\Desktop\Learning\Projects\ReusableDAL\obj\Debug\net8.0\ReusableDAL.AssemblyInfo.cs
+C:\Users\Michael\Desktop\Learning\Projects\ReusableDAL\obj\Debug\net8.0\ReusableDAL.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\Learning\Projects\ReusableDAL\obj\Debug\net8.0\ReusableDAL.sourcelink.json
+C:\Users\Michael\Desktop\Learning\Projects\ReusableDAL\obj\Debug\net8.0\ReusableDAL.dll
+C:\Users\Michael\Desktop\Learning\Projects\ReusableDAL\obj\Debug\net8.0\refint\ReusableDAL.dll
+C:\Users\Michael\Desktop\Learning\Projects\ReusableDAL\obj\Debug\net8.0\ReusableDAL.pdb
+C:\Users\Michael\Desktop\Learning\Projects\ReusableDAL\obj\Debug\net8.0\ref\ReusableDAL.dll
